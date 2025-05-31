@@ -1,6 +1,6 @@
 # LunarPay Pro
 
-![LunarPay Pro Logo](https://lunarpay.pro/assets/logo.png)  <!-- Se quiser, substitua pela URL correta do logo -->
+![LunarPay Pro Logo]([https://lunarpay.pro/assets/logo.png](https://lunarpay.pro/public/backend/images/web-settings/image-assets/d77fba07-b052-4318-8bff-6a2cc6987bbb.webp))  <!-- Se quiser, substitua pela URL correta do logo -->
 
 ---
 
