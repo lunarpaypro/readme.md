@@ -1,6 +1,6 @@
 # LunarPay Pro
 
-![LunarPay Pro Logo]([[https://lunarpay.pro/assets/logo.png](https://lunarpay.pro/public/backend/images/web-settings/image-assets/d77fba07-b052-4318-8bff-6a2cc6987bbb.webp](https://media.discordapp.net/attachments/1363971433482686477/1378494882548682872/d77fba07-b052-4318-8bff-6a2cc6987bbb.webp?ex=683ccee7&is=683b7d67&hm=81e5e5486df14c396323d61a8d8028a588c9068aace15450a4abfa11206570dc&=&format=webp&width=1068&height=340)))  <!-- Se quiser, substitua pela URL correta do logo -->
+![LunarPay Pro Logo](./d77fba07-b052-4318-8bff-6a2cc6987bbb.webp)
 
 ---
 
